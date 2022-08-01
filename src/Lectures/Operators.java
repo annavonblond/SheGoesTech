@@ -1,7 +1,9 @@
+package Lectures;
+
 public class Operators {
     public static void main(String[] args) {
 
-        // Math.java operators + - / * %
+        // Lectures.Math.java operators + - / * %
         int x = 100;
         x += 100;
         //x = x + 100;

@@ -1,3 +1,5 @@
+package Homeworks;
+
 import java.util.Scanner;
 
 public class HM5 {
@@ -31,7 +33,7 @@ public class HM5 {
             System.out.println("odd");
 
 }
-        //Test command
+        //Lectures.Test command
         }
     }
 
